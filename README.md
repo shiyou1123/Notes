@@ -1,2 +1,2 @@
 # Notes
-Move on anyway
+Write my notes down here.
