@@ -7,3 +7,5 @@ import numpy
 random number = numpy.random.binomial(n= , p=, size=)
 # import random:
 random.randint(a,b) will return an integer between a and b (both inclusive).
+# select two or more columns from a DataFrame
+new_df = df[['column1', 'column2']]
